@@ -34,3 +34,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+#Amplify Shader
+Assets/AmplifyShaderEditor/
+Assets/AmplifyShaderEditor.meta
+
+#VS Code
+.vscode

@@ -10,7 +10,7 @@
         CGPROGRAM
         #pragma surface surf Standard alpha:fade
         #pragma target 3.0
-        
+
         fixed4 _BaseColor;
         float _BaseAlpha;
 

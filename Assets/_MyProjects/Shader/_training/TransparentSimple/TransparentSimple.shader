@@ -9,9 +9,9 @@
         CGPROGRAM
         #pragma surface surf Standard alpha:fade
         #pragma target 3.0
-        
+
         fixed4 _BaseColor;
- 
+
         struct Input {
             float2 uv_MainTex;
         };

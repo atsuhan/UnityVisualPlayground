@@ -1,4 +1,4 @@
-﻿Shader "atsuhan/SimpleTransparent" {
+﻿Shader "atsuhan/TransparentSimple" {
 	Properties {
 		_BaseColor ("Color", Color) = (1, 1, 1, 0.5)
 	}

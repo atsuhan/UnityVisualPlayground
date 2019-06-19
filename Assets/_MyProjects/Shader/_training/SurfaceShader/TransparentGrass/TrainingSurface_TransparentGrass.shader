@@ -1,4 +1,4 @@
-﻿Shader "atsuhan/TransparentGrass" {
+﻿Shader "atsuhan/TrainingSurface_TransparentGrass" {
     Properties {
         _BaseColor ("Color", Color) = (1, 1, 1, 0.5)
         _BaseAlpha ("Alpha", float) = 1.5

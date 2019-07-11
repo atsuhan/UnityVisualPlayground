@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.45140195, g: 0.50089467, b: 0.57231796, a: 1}
+  m_IndirectSpecularColor: {r: 0.4482476, g: 0.49827325, b: 0.57558215, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -167,6 +167,34 @@ Prefab:
         type: 2}
       propertyPath: antialiasingMode
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4562184456279556, guid: f40b947d4ff3d41598ef714a0ac17954, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0.33141357
+      objectReference: {fileID: 0}
+    - target: {fileID: 4562184456279556, guid: f40b947d4ff3d41598ef714a0ac17954, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: -0.46193978
+      objectReference: {fileID: 0}
+    - target: {fileID: 4562184456279556, guid: f40b947d4ff3d41598ef714a0ac17954, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0.19134171
+      objectReference: {fileID: 0}
+    - target: {fileID: 4562184456279556, guid: f40b947d4ff3d41598ef714a0ac17954, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 0.8001032
+      objectReference: {fileID: 0}
+    - target: {fileID: 4562184456279556, guid: f40b947d4ff3d41598ef714a0ac17954, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -60
+      objectReference: {fileID: 0}
+    - target: {fileID: 4562184456279556, guid: f40b947d4ff3d41598ef714a0ac17954, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4562184456279556, guid: f40b947d4ff3d41598ef714a0ac17954, type: 2}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 45
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f40b947d4ff3d41598ef714a0ac17954, type: 2}

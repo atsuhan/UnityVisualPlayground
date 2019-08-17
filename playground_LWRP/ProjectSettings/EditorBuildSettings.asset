@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/DefaultAssets/Scenes/SampleScene.unity
-    guid: d1c3109bdb54ad54c8a2b2838528e640
+    path: Assets/_MyAssets/KillraKill/Gokuseifuku.unity
+    guid: 545c853fd9ad6497ebbed6e89b2d9bc7
   m_configObjects: {}
